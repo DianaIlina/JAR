@@ -1,4 +1,5 @@
-# aqa-code
+# JAR [![Build status](https://ci.appveyor.com/api/projects/status/tb0sgujjbp25u9q9?svg=true)](https://ci.appveyor.com/project/Diana17548/jar)
+
 Код с лекций Автоматизация тестирования
 
 1. [x] [Основы автоматизации](basics/)
